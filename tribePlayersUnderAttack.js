@@ -35,7 +35,7 @@ var scriptConfig = {
 			Village: 'Village',
 			Support: 'Support',
 			'Villages under attack:': 'Villages under attack:',
-			'No player is under attack!': 'No player is under attack!',
+			'No player is under attack!': 'Κανένας παίκτης δεν δέχεται επίθεση!',
 			'Player Name': 'Player Name',
 			Incomings: 'Incomings',
 			'Incs/Village Under Attack:': 'Incs/Village Under Attack:',
