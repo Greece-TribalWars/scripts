@@ -29,7 +29,7 @@ var scriptConfig = {
 	},
 	translations: {
 		en_DK: {
-			'Tribe Players Under Attack': 'Tribe Players Under Attack',
+			'Tribe Players Under Attack': 'Παίκτες φυλής σε επίθεση',
 			Help: 'Help',
 			'Error fetching player incomings!': 'Error fetching player incomings!',
 			Village: 'Village',
