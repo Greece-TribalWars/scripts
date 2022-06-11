@@ -64,7 +64,7 @@ $.getScript('https://twscripts.dev/scripts/twSDK.js', function () {
 			console.error(`${scriptInfo} Error:`, error);
 		}
 	} else {
-		UI.InfoMessage(twSDK.tt('Redirecting...'));
+		UI.InfoMessage(twSDK.tt('Ανακατευθύνεστε...'));
 		twSDK.redirectTo('buddies');
 	}
 
