@@ -25,7 +25,7 @@ var scriptConfig = {
 		version: 'έκδοση 1.2.0',
 		author: 'costaspapoytsis7',
 		authorUrl: 'https://gr75.fyletikesmaxes.gr/game.php?village=5608&screen=info_player#508;429',
-		helpLink: 'https://forum.tribalwars.net/index.php?threads/tribe-players-under-attack-tribe-leader.287111/',
+		helpLink: '#',
 	},
 	translations: {
 		en_DK: {
