@@ -30,7 +30,7 @@ var scriptConfig = {
 	translations: {
 		en_DK: {
 			'Friend Request': 'Αίτημα φιλίας',
-			Help: 'Help',
+			Help: 'Βοήθεια',
 			'Fetching world data ...': 'Fetching world data ...',
 			Rank: 'Rank',
 			Player: 'Παίκτης',
